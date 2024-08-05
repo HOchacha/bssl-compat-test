@@ -15,6 +15,7 @@ find_openssl() {
         "/usr/lib64/openssl"
         "/usr/lib64/ssl"
         "/usr/local/openssl/lib"
+        "/usr/local/openssl-3.0.8/lib"
         "/usr/local/ssl/lib"
         "/usr/lib/openssl"
         "/usr/lib/ssl"
